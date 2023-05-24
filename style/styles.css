@@ -1,0 +1,11 @@
+ /*logo*/
+
+ img[alt='logo']{
+    width: 5rem;
+ }
+
+ /*body*/
+
+ body{
+    text-align: center;
+ }
